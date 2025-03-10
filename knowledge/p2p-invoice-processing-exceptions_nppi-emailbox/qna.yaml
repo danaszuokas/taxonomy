@@ -2,7 +2,7 @@
 version: 3
 created_by: danaszuokas
 document:
-  commit: b6260a30c3108fa43b520b37ba6c9fd491e496a8
+  commit: 8d0b02ba0210575dc6f749f6906029c5ab3f7189
   patterns:
   - P2P_Invoice Processing - Exceptions_NPPI Emailbox_2022_V1.0.md
   repo: https://github.com/danaszuokas/taxonomy
